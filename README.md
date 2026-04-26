@@ -1,47 +1,51 @@
-# Привет, я Руслан! 👋 
+<div align="center">
 
-### Full-Stack разработчик | IT-стажер
+# Привет, я Руслан! 👋
+### Full-stack разработчик | IT-стажер | Linux Enthusiast
 
-Я занимаюсь созданием современных веб-приложений и глубокой настройкой систем на базе Linux. Ценю чистый код, автоматизацию рутины и минималистичный UI/UX.
-
----
-
-## 🛠 Технологический стек
-
-### 💻 Фронтенд
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![Inertia.js](https://img.shields.io/badge/inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Бэкенд
-![PHP](https://img.shields.io/badge/php-%23777bb4.svg?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-### 🐧 Инфраструктура и инструменты
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Laravel+%2B+Vue.js+%2B+Inertia;Python+%2B+FastAPI;Fedora+%2B+Mint+Daily+Driver;Building+modern+SaaS+solutions)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Основные проекты
-
-### 📊 Curator Rating Dashboard
-Полноценное SPA-приложение для мониторинга рейтингов.
-- **Стек:** Laravel, Vue.js, Inertia.js, PostgreSQL.
-- **Особенности:** Интерактивная аналитика, ролевая модель доступа и современный SaaS-дизайн.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,python,fastapi,postgres,mysql,linux,fedora,git,tailwind,vite,figma&theme=dark" />
+</p>
 
 ---
 
-## ⚡ Коротко о себе
-- 🐧 **OS:** Постоянно использую **Fedora** и **Linux Mint**. Люблю кастомизировать терминалы и рабочее окружение.
-- 🎨 **UI/UX:** Предпочитаю строгий минимализм и современные интерфейсы в стиле Dribbble.
-- 🎓 **Статус:** В данный момент активно развиваюсь в сторону High-load систем и автоматизации в ИТ-командах.
+</div>
 
----
+## 🚀 Обо мне
 
-## 📫 Связаться со мной
+- 💻 **Backend:** Специализируюсь на **PHP (Laravel)** и **Python**. Люблю проектировать чистую архитектуру и работать с БД.
+- 🎨 **Frontend:** Мой фаворит — **Vue.js** в связке с **Inertia.js** и **Tailwind CSS**. 
+- 🐧 **System:** Фанат **Linux** (Fedora/Mint). Люблю кастомизировать терминал и автоматизировать всё, что движется.
+- 🎓 **Цель:** Получить стажировку в крупной ИТ-компании и работать над сложными продуктами.
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donk1hong&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+## 📊 Моя активность
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Donk1hong&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🛠 Ключевые проекты
+
+> [!TIP]
+> ### [Curator Rating Dashboard](https://github.com/Donk1hong)
+> Полноценное приложение на Laravel + Vue.js для управления рейтингами. Современный UI и сложная логика доступа.
+
+## 📫 Как меня найти
+
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PYbondf)
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Donk1hong/Donk1hong/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
