@@ -1,7 +1,6 @@
 <div align="center">
 
-# Привет! 👋
-### Full-Stack Developer · Node.js & PHP · Arch Linux User
+### Full-Stack Developer
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,nest,react,next,redux,laravel,vue,postgres,mysql,docker,ansible,linux,tailwind" alt="Мой стек технологий" />
 
