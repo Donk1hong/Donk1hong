@@ -1,24 +1,20 @@
 <div align="center">
 
-# Привет, я Руслан! 👋
-### Full-Stack Developer | Backend (Node.js & PHP) | Linux Enthusiast
+# Привет! 👋
+### Full-Stack Developer · Node.js & PHP · Arch Linux User
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nest,react,next,redux,laravel,vue,postgres,mysql,docker,ansible,linux,tailwind"/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nest,react,next,redux,laravel,vue,postgres,mysql,docker,ansible,linux,tailwind" alt="Мой стек технологий" />
+
+<p>
+  Создаю веб-приложения — от API и базы данных до интерфейса.<br>
+  Основной стек — <strong>Node.js, TypeScript, NestJS</strong> и <strong>PHP, Laravel</strong>.<br>
+  На фронтенде работаю с <strong>React</strong> и <strong>Vue</strong>.
 </p>
 
-</div>
+<p>Интересуюсь архитектурой и автоматизацией. В повседневной работе использую Arch Linux.</p>
 
-## 🚀 Обо мне
-
-- 💻 **Backend:** Специализируюсь на **Node.js (Nest.js, TypeScript)** и **PHP (Laravel)**. Проектирую микросервисную архитектуру, настраиваю контейнеризацию и работаю со сложными БД.
-- 🎨 **Frontend:** Уверенно владею экосистемами **React (Next.js, Redux Toolkit)** и **Vue.js (Inertia.js, Tailwind CSS)**.
-- ⚙️ **DevOps & System:** Автоматизирую деплой через **Ansible**, упаковываю всё в **Docker**. Фанат **Linux** (в качестве Daily Driver использую Fedora).
-- 🎓 **Цель:** Junior+ / Middle позиции и стажировки в highload-проектах со сложной архитектурой.
-
-
-<div align="center">
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PYbondf)
+<a href="https://t.me/PYbondf">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
 </div>
