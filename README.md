@@ -10,7 +10,7 @@
   На фронтенде работаю с <strong>React</strong> и <strong>Vue</strong>.
 </p>
 
-<p>Интересуюсь архитектурой и автоматизацией. В повседневной работе использую Arch Linux.</p>
+<p>Интересуюсь архитектурой и автоматизацией. В повседневной работе использую Arch + Hyprland</p>
 
 <a href="https://t.me/PYbondf">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
